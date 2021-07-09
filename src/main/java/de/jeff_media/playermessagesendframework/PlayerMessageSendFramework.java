@@ -9,6 +9,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Original code by yakovliam // https://www.spigotmc.org/members/yakovliam.235587/
+ */
 public class PlayerMessageSendFramework {
 
     private final StringMessageComputer computer;
